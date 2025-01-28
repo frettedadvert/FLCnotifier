@@ -35,3 +35,11 @@ jobs:
         run: |
           python NotifierDeutschblatt.py
 
+      - name: Commit and Push Updated Files
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add matches.json extracted_text_parts.json
+          git commit -m "Update matches.json and extracted_text_parts.json"
+          git push origin main   
+
