@@ -1,1 +1,174 @@
-{}
+{
+    "https://www.deutsches-ausschreibungsblatt.de/branchen/dienstleistungen/catering#/": [
+        {
+            "part": "Vergebener Auftrag: Schulverpflegung Schule am Ernst-Reuter-Platz (ERNST) und Neue Grundschule Lehe (NGL)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-schulverpflegung-schule-am-ernst-reuter-platz-(ernst)-und-neue-grundschule-lehe-(ngl)_0d50a5dc677e340d00712808430500",
+            "result": {
+                "sequence": "Vergebener Auftrag: Schulverpflegung Schule am Ernst-Reuter-Platz (ERNST) und Neue Grundschule Lehe (NGL)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9837902188301086,
+                    0.013728579506278038,
+                    0.002481186529621482
+                ]
+            }
+        },
+        {
+            "part": "Berichtigung: Mittagsverpflegung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/berichtigung-mittagsverpflegung_0e37b567674d6c8f5c0a8617406615",
+            "result": {
+                "sequence": "Berichtigung: Mittagsverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6276946663856506,
+                    0.31981828808784485,
+                    0.05248701944947243
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagessen in Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagessen-in-kitas_0f55d748677e3407d13b6413794685",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagessen in Kitas",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8011673092842102,
+                    0.13558299839496613,
+                    0.06324966251850128
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Catering Hotel Rega",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag--catering-hotel-rega_1b35dbce677e34128f8e7847928305",
+            "result": {
+                "sequence": "Vergebener Auftrag: Catering Hotel Rega",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7320327162742615,
+                    0.2610880434513092,
+                    0.006879233289510012
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Rahmenvereinbarung \u00fcber die Verpflegungsdienstleistung f\u00fcr Gefl\u00fcchtete in der Landeserstaufnahmeeinrichtung Freiburg",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-rahmenvereinbarung-ueber-die-verpflegungsdienstleistung-fuer-gefluechtete-in-der-landeserstaufnahmeeinrichtung-freiburg_2c2eaf8f676e620e5a32a599076363",
+            "result": {
+                "sequence": "Vergebener Auftrag: Rahmenvereinbarung \u00fcber die Verpflegungsdienstleistung f\u00fcr Gefl\u00fcchtete in der Landeserstaufnahmeeinrichtung Freiburg",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8997042775154114,
+                    0.06586573272943497,
+                    0.03442994877696037
+                ]
+            }
+        },
+        {
+            "part": "Essensversorgung - Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essensversorgung---schule_2c45cd4067934c1573029843246174",
+            "result": {
+                "sequence": "Essensversorgung - Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8407900929450989,
+                    0.11142582446336746,
+                    0.047784123569726944
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Ex-Post Bekanntmachung Catering EA Giengen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-ex-post-bekanntmachung-catering-ea-giengen_2fe69ffb674d6c8fdb2bf906575531",
+            "result": {
+                "sequence": "Vergebener Auftrag: Ex-Post Bekanntmachung Catering EA Giengen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5094006061553955,
+                    0.4831525981426239,
+                    0.00744679756462574
+                ]
+            }
+        },
+        {
+            "part": "Betrieb einer Kantine",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/betrieb-einer-kantine_3c7fe360677faaad00f27586093215",
+            "result": {
+                "sequence": "Betrieb einer Kantine",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6204959154129028,
+                    0.33809974789619446,
+                    0.041404347866773605
+                ]
+            }
+        },
+        {
+            "part": "Catering - Zentrum f\u00fcr Feuerschutz u. Rettungswesen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/catering---zentrum-fuer-feuerschutz-u.-rettungswesen_3c2733676781141ba4ffc156233067",
+            "result": {
+                "sequence": "Catering - Zentrum f\u00fcr Feuerschutz u. Rettungswesen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9462441205978394,
+                    0.04352583736181259,
+                    0.010229986160993576
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Essensversorgung Schulen und Kitas der Stadt Gro\u00dfr\u00e4schen (2 Lose)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-essensversorgung-schulen-und-kitas-der-stadt-grossraeschen-(2-lose)_3d195b68675fe186ecc54688946450",
+            "result": {
+                "sequence": "Vergebener Auftrag: Essensversorgung Schulen und Kitas der Stadt Gro\u00dfr\u00e4schen (2 Lose)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8800086975097656,
+                    0.10044624656438828,
+                    0.019545074552297592
+                ]
+            }
+        }
+    ]
+}
