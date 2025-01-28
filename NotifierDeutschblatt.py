@@ -174,7 +174,7 @@ def send_email(new_matches):
 
     try:
         yag = yagmail.SMTP(EMAIL_ADDRESS, EMAIL_PASSWORD)
-        yag.send(EMAIL_ADDRESS, subject, body)
+        yag.send("henrik.hemmer@flc-group.de", subject, body)
         print("Email sent!")
     except Exception as e:
         print(f"Failed to send email: {e}")
