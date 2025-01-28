@@ -25,7 +25,8 @@ EMAIL_ADDRESS = os.getenv("EMAIL_ADDRESS")
 EMAIL_PASSWORD = os.getenv("EMAIL_PASSWORD")
 
 # File to store previously found matches
-MATCHES_FILE = "matches.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MATCHES_FILE = os.path.join(SCRIPT_DIR, "matches.json")
 TEXT_PARTS_FILE = "extracted_text_parts.json"
 
 def clear_matches_file():
