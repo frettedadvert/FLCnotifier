@@ -12,7 +12,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Hugging Face Inference API
 HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/facebook/bart-large-mnli"
-HUGGINGFACE_API_TOKEN = "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"  # Replace with your Hugging Face API token
+export HUGGINGFACE_API_TOKEN = "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"  # Replace with your Hugging Face API token
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'  # Suppress TensorFlow logging
 
@@ -21,8 +21,8 @@ websites = [
 ]
 
 # Email configuration
-EMAIL_ADDRESS = "aaaelbedaway@gmail.com"
-EMAIL_PASSWORD = "uhpbpxywxtkmffnp"
+export EMAIL_ADDRESS = "aaaelbedaway@gmail.com"
+export EMAIL_PASSWORD = "uhpbpxywxtkmffnp"
 
 # File to store previously found matches
 MATCHES_FILE = "matches.json"
