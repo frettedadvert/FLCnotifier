@@ -169,6 +169,23 @@
                     0.019545074552297592
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Verpflegungsdienstleistung UE Selm",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-verpflegungsdienstleistung-ue-selm_3de7fe26675a9b96495f8321066091",
+            "result": {
+                "sequence": "Vergebener Auftrag: Verpflegungsdienstleistung UE Selm",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8810426592826843,
+                    0.0781731903553009,
+                    0.04078415036201477
+                ]
+            }
         }
     ]
 }
