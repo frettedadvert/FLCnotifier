@@ -186,6 +186,23 @@
                     0.04078415036201477
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung Gemeinde Eggenstein-Leopoldshafen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-gemeinde-eggenstein-leopoldshafen_4d2d6a206765279b33bf2869373979",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung Gemeinde Eggenstein-Leopoldshafen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9219170212745667,
+                    0.06856789439916611,
+                    0.009515093639492989
+                ]
+            }
         }
     ]
 }
