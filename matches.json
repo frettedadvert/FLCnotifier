@@ -220,6 +220,23 @@
                     0.04158393666148186
                 ]
             }
+        },
+        {
+            "part": "Essenversorgung - Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essenversorgung---schule_0ebf69a667a1cc85e205e600126610",
+            "result": {
+                "sequence": "Essenversorgung - Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8424053192138672,
+                    0.11249147355556488,
+                    0.045103203505277634
+                ]
+            }
         }
     ]
 }
