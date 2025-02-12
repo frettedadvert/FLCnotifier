@@ -237,6 +237,23 @@
                     0.045103203505277634
                 ]
             }
+        },
+        {
+            "part": "Pachtvertrag - Gastronomiebetrieb",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/pachtvertrag---gastronomiebetrieb_2bf6d0c767ac586c2e716135270282",
+            "result": {
+                "sequence": "Pachtvertrag - Gastronomiebetrieb",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8940034508705139,
+                    0.0903838723897934,
+                    0.015612651593983173
+                ]
+            }
         }
     ]
 }
