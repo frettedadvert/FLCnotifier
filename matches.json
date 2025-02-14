@@ -254,6 +254,23 @@
                     0.015612651593983173
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Schule u. Kinderhaus",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---schule-u.-kinderhaus_1b5040c967aefb9113cb0580462103",
+            "result": {
+                "sequence": "Mittagsverpflegung - Schule u. Kinderhaus",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9508901238441467,
+                    0.04172462970018387,
+                    0.007385214325040579
+                ]
+            }
         }
     ]
 }
