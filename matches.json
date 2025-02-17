@@ -271,6 +271,23 @@
                     0.007385214325040579
                 ]
             }
+        },
+        {
+            "part": "Getr\u00e4nke - Stadtfest Aquarena Nacht 2025",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/getraenke---stadtfest-aquarena-nacht-2025_0c56dde567b2dcef4df3d234950202",
+            "result": {
+                "sequence": "Getr\u00e4nke - Stadtfest Aquarena Nacht 2025",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.637771487236023,
+                    0.20784226059913635,
+                    0.1543862670660019
+                ]
+            }
         }
     ]
 }
