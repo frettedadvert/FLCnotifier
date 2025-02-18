@@ -288,6 +288,23 @@
                     0.1543862670660019
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung f\u00fcr Schulen und Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung-fuer-schulen-und-kitas_0bae280767b2f010e28eb321724889",
+            "result": {
+                "sequence": "Mittagsverpflegung f\u00fcr Schulen und Kitas",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8619383573532104,
+                    0.11892368644475937,
+                    0.019137943163514137
+                ]
+            }
         }
     ]
 }
