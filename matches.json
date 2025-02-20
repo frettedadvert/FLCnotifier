@@ -305,6 +305,40 @@
                     0.019137943163514137
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kitas_01c1108f67b5e32d0b99d666460426",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kitas",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.847597062587738,
+                    0.11172540485858917,
+                    0.0406775027513504
+                ]
+            }
+        },
+        {
+            "part": "Cateringleistungen - Rathaus u. Stadthalle",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/cateringleistungen---rathaus-u.-stadthalle_1e00472a67b6e48c4d698385805343",
+            "result": {
+                "sequence": "Cateringleistungen - Rathaus u. Stadthalle",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.941278338432312,
+                    0.05090118572115898,
+                    0.007820483297109604
+                ]
+            }
         }
     ]
 }
