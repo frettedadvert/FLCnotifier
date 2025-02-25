@@ -339,6 +339,23 @@
                     0.007820483297109604
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Kindertageseinrichtungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kindertageseinrichtungen_1a13298667bc2a8867fdc511214065",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7444704174995422,
+                    0.14678014814853668,
+                    0.1087493970990181
+                ]
+            }
         }
     ]
 }
