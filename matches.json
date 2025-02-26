@@ -356,6 +356,23 @@
                     0.1087493970990181
                 ]
             }
+        },
+        {
+            "part": "Speisen- und Getr\u00e4nkeversorgung - Kliniken",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/speisen--und-getraenkeversorgung---kliniken_01a746a267bd7c11cb363833218735",
+            "result": {
+                "sequence": "Speisen- und Getr\u00e4nkeversorgung - Kliniken",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7528569102287292,
+                    0.1245451271533966,
+                    0.12259794771671295
+                ]
+            }
         }
     ]
 }
