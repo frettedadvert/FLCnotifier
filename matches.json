@@ -373,6 +373,23 @@
                     0.12259794771671295
                 ]
             }
+        },
+        {
+            "part": "Kantinen- und Cateringleistungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kantinen--und-cateringleistungen_0ef506ac67c066564b16e502766094",
+            "result": {
+                "sequence": "Kantinen- und Cateringleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9237950444221497,
+                    0.06378582119941711,
+                    0.01241912692785263
+                ]
+            }
         }
     ]
 }
