@@ -390,6 +390,23 @@
                     0.01241912692785263
                 ]
             }
+        },
+        {
+            "part": "Kantinenbewirtschaftung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kantinenbewirtschaftung_0c48fc9967c959965d41c445054999",
+            "result": {
+                "sequence": "Kantinenbewirtschaftung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7079858779907227,
+                    0.1508367657661438,
+                    0.14117726683616638
+                ]
+            }
         }
     ]
 }
