@@ -407,6 +407,23 @@
                     0.14117726683616638
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Dienstleistungen Eventbereich",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-dienstleistungen-eventbereich_1e68ce1067c5651751c87596901297",
+            "result": {
+                "sequence": "Vergebener Auftrag: Dienstleistungen Eventbereich",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6858443021774292,
+                    0.26830974221229553,
+                    0.04584594443440437
+                ]
+            }
         }
     ]
 }
