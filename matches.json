@@ -424,6 +424,23 @@
                     0.04584594443440437
                 ]
             }
+        },
+        {
+            "part": "Essensversorgung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essensversorgung_1fb7a6dd67ce9f89cb952163224158",
+            "result": {
+                "sequence": "Essensversorgung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6577491760253906,
+                    0.2156011313199997,
+                    0.12664972245693207
+                ]
+            }
         }
     ]
 }
