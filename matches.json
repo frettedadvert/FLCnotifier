@@ -441,6 +441,40 @@
                     0.12664972245693207
                 ]
             }
+        },
+        {
+            "part": "Berichtigung: Verpflegungsleistungen - Kindertagesst\u00e4tten und Schulen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/berichtigung-verpflegungsleistungen---kindertagesstaetten-und-schulen_2b3f2b2a67bd7c145de81694364881",
+            "result": {
+                "sequence": "Berichtigung: Verpflegungsleistungen - Kindertagesst\u00e4tten und Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7690972089767456,
+                    0.19355323910713196,
+                    0.03734952211380005
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-pausenverkauf-und-mittagsverpflegung-am-deutsch-luxemburgischen-schengen-lyzeum-perl_3b38f79567c9598d9123c968541996",
+            "result": {
+                "sequence": "Vergebener Auftrag: Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7510247230529785,
+                    0.20964938402175903,
+                    0.039325863122940063
+                ]
+            }
         }
     ]
 }
