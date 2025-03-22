@@ -492,6 +492,176 @@
                     0.064915731549263
                 ]
             }
+        },
+        {
+            "part": "Kantinenbewirtschaftung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kantinenbewirtschaftung_0c48fc9967c959965d41c445054999",
+            "result": {
+                "sequence": "Kantinenbewirtschaftung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7079859972000122,
+                    0.15083694458007812,
+                    0.14117704331874847
+                ]
+            }
+        },
+        {
+            "part": "Kantinen- und Cateringleistungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kantinen--und-cateringleistungen_0ef506ac67c066564b16e502766094",
+            "result": {
+                "sequence": "Kantinen- und Cateringleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9237952828407288,
+                    0.0637856051325798,
+                    0.012419112026691437
+                ]
+            }
+        },
+        {
+            "part": "Speisen- und Getr\u00e4nkeversorgung - Kliniken",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/speisen--und-getraenkeversorgung---kliniken_01a746a267bd7c11cb363833218735",
+            "result": {
+                "sequence": "Speisen- und Getr\u00e4nkeversorgung - Kliniken",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7528567314147949,
+                    0.12454571574926376,
+                    0.12259756028652191
+                ]
+            }
+        },
+        {
+            "part": "Mittagsverpflegung - Kindertageseinrichtungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kindertageseinrichtungen_1a13298667bc2a8867fdc511214065",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7444697022438049,
+                    0.1467808187007904,
+                    0.10874941200017929
+                ]
+            }
+        },
+        {
+            "part": "Schulverpflegung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/schulverpflegung_1ac0167767dbbbceb58b7181682640",
+            "result": {
+                "sequence": "Schulverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.849033534526825,
+                    0.08605091273784637,
+                    0.06491554528474808
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Dienstleistungen Eventbereich",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-dienstleistungen-eventbereich_1e68ce1067c5651751c87596901297",
+            "result": {
+                "sequence": "Vergebener Auftrag: Dienstleistungen Eventbereich",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6858423352241516,
+                    0.2683119475841522,
+                    0.04584572836756706
+                ]
+            }
+        },
+        {
+            "part": "Essensversorgung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essensversorgung_1fb7a6dd67ce9f89cb952163224158",
+            "result": {
+                "sequence": "Essensversorgung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6577483415603638,
+                    0.21560263633728027,
+                    0.12664902210235596
+                ]
+            }
+        },
+        {
+            "part": "Berichtigung: Verpflegungsleistungen - Kindertagesst\u00e4tten und Schulen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/berichtigung-verpflegungsleistungen---kindertagesstaetten-und-schulen_2b3f2b2a67bd7c145de81694364881",
+            "result": {
+                "sequence": "Berichtigung: Verpflegungsleistungen - Kindertagesst\u00e4tten und Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7690948843955994,
+                    0.19355520606040955,
+                    0.037349883466959
+                ]
+            }
+        },
+        {
+            "part": "Pachtvertrag - Gastronomiebetrieb",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/pachtvertrag---gastronomiebetrieb_2bf6d0c767ac586c2e716135270282",
+            "result": {
+                "sequence": "Pachtvertrag - Gastronomiebetrieb",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8940039873123169,
+                    0.09038344770669937,
+                    0.015612594783306122
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-pausenverkauf-und-mittagsverpflegung-am-deutsch-luxemburgischen-schengen-lyzeum-perl_3b38f79567c9598d9123c968541996",
+            "result": {
+                "sequence": "Vergebener Auftrag: Pausenverkauf und Mittagsverpflegung am Deutsch-Luxemburgischen Schengen-Lyzeum Perl",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7510233521461487,
+                    0.20965076982975006,
+                    0.039325885474681854
+                ]
+            }
         }
     ]
 }
