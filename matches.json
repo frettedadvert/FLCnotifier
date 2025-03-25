@@ -662,6 +662,23 @@
                     0.039325885474681854
                 ]
             }
+        },
+        {
+            "part": "Berichtigung: Konzession: Mittagsverpflegung - Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/berichtigung-konzession-mittagsverpflegung---schule_3c29a8d267b8360eea99b565091087",
+            "result": {
+                "sequence": "Berichtigung: Konzession: Mittagsverpflegung - Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8519251942634583,
+                    0.13411910831928253,
+                    0.01395568810403347
+                ]
+            }
         }
     ]
 }
