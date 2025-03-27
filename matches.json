@@ -679,6 +679,40 @@
                     0.01395568810403347
                 ]
             }
+        },
+        {
+            "part": "Speiseversorgung - Bezirksklinik",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/speiseversorgung---bezirksklinik_3df6c22967d3e58e5efe9590515165",
+            "result": {
+                "sequence": "Speiseversorgung - Bezirksklinik",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8473565578460693,
+                    0.10157797485589981,
+                    0.05106547847390175
+                ]
+            }
+        },
+        {
+            "part": "Mittagessenversorgung - Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagessenversorgung---schule_3e4efdc867da9e97552fe719947945",
+            "result": {
+                "sequence": "Mittagessenversorgung - Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7446037530899048,
+                    0.15719956159591675,
+                    0.09819667041301727
+                ]
+            }
         }
     ]
 }
