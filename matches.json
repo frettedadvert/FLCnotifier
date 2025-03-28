@@ -713,6 +713,23 @@
                     0.09819667041301727
                 ]
             }
+        },
+        {
+            "part": "Mittagessenversorgung - Grundschule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagessenversorgung---grundschule_0d73f2a767e50913e0847569090068",
+            "result": {
+                "sequence": "Mittagessenversorgung - Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7873414158821106,
+                    0.17405912280082703,
+                    0.03859945759177208
+                ]
+            }
         }
     ]
 }
