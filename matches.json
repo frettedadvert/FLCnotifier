@@ -730,6 +730,40 @@
                     0.03859945759177208
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Schulen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---schulen_1d5ff12167ea40fbc31df826624839",
+            "result": {
+                "sequence": "Mittagsverpflegung - Schulen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9190992712974548,
+                    0.06630761921405792,
+                    0.014593122527003288
+                ]
+            }
+        },
+        {
+            "part": "Getr\u00e4nke- und Speiseversorgung - Universit\u00e4t",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/getraenke--und-speiseversorgung---universitaet_3d59792267ea4216d1163845805326",
+            "result": {
+                "sequence": "Getr\u00e4nke- und Speiseversorgung - Universit\u00e4t",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5513721704483032,
+                    0.25040289759635925,
+                    0.1982249617576599
+                ]
+            }
         }
     ]
 }
