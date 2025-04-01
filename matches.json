@@ -764,6 +764,23 @@
                     0.1982249617576599
                 ]
             }
+        },
+        {
+            "part": "Catering - Universit\u00e4t",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/catering---universitaet_2b09c08367ea554224f2d401740993",
+            "result": {
+                "sequence": "Catering - Universit\u00e4t",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9593380689620972,
+                    0.032535120844841,
+                    0.008126823231577873
+                ]
+            }
         }
     ]
 }
