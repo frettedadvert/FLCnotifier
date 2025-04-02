@@ -781,6 +781,23 @@
                     0.008126823231577873
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Gastronomische Bewirtschaftung Berlin",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-gastronomische-bewirtschaftung-berlin_3b73c53667ece40cbb4be696708409",
+            "result": {
+                "sequence": "Vergebener Auftrag: Gastronomische Bewirtschaftung Berlin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9297778606414795,
+                    0.04922589659690857,
+                    0.02099626697599888
+                ]
+            }
         }
     ]
 }
