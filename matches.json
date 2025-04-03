@@ -798,6 +798,40 @@
                     0.02099626697599888
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-catering-%252F-verpflegungsdienst-fuer-mensa-i-und-ii-(fuer-5-jahre)_1dd8247e67ee358a86aa4996667623",
+            "result": {
+                "sequence": "Vergebener Auftrag: Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.829048752784729,
+                    0.16087228059768677,
+                    0.010078919120132923
+                ]
+            }
+        },
+        {
+            "part": "Konzept - Cateringleistungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/konzept---cateringleistungen_2d8adfd567ed0a4985cd3859734936",
+            "result": {
+                "sequence": "Konzept - Cateringleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.951181948184967,
+                    0.04093732312321663,
+                    0.007880661636590958
+                ]
+            }
         }
     ]
 }
