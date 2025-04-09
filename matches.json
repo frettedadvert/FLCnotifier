@@ -849,6 +849,23 @@
                     0.009453939273953438
                 ]
             }
+        },
+        {
+            "part": "Cateringleistungen - Verwaltung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/cateringleistungen---verwaltung_0f7dfacd67f4eadbc81fb178204099",
+            "result": {
+                "sequence": "Cateringleistungen - Verwaltung",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8996697664260864,
+                    0.0846765786409378,
+                    0.015653671696782112
+                ]
+            }
         }
     ]
 }
