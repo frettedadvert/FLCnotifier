@@ -883,6 +883,23 @@
                     0.10536801069974899
                 ]
             }
+        },
+        {
+            "part": "Ehrenzeichenverleihung - Feuerwehr",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/ehrenzeichenverleihung---feuerwehr_1c3112da67f8c995de7cc203433764",
+            "result": {
+                "sequence": "Ehrenzeichenverleihung - Feuerwehr",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8297435641288757,
+                    0.11816371232271194,
+                    0.05209270119667053
+                ]
+            }
         }
     ]
 }
