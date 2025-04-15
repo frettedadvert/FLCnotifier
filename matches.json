@@ -900,6 +900,23 @@
                     0.05209270119667053
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---schule_2bbea23b67fdf61e2c876966801225",
+            "result": {
+                "sequence": "Mittagsverpflegung - Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9233292937278748,
+                    0.06721679866313934,
+                    0.009453939273953438
+                ]
+            }
         }
     ]
 }
