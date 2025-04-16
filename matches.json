@@ -917,6 +917,23 @@
                     0.009453939273953438
                 ]
             }
+        },
+        {
+            "part": "Essenslieferung - Kita und Grundschule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essenslieferung---kita-und-grundschule_0c3eee9867ff5903973d9953515162",
+            "result": {
+                "sequence": "Essenslieferung - Kita und Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.834566056728363,
+                    0.12357331067323685,
+                    0.04186064004898071
+                ]
+            }
         }
     ]
 }
