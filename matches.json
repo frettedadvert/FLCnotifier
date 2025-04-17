@@ -934,6 +934,40 @@
                     0.04186064004898071
                 ]
             }
+        },
+        {
+            "part": "Raum- und Servicebereitstellung IT-BBZ",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/raum--und-servicebereitstellung-it-bbz_0a43051b67fe079196f24962765451",
+            "result": {
+                "sequence": "Raum- und Servicebereitstellung IT-BBZ",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8251599669456482,
+                    0.09078475087881088,
+                    0.0840553492307663
+                ]
+            }
+        },
+        {
+            "part": "Mittagsverpflegung - Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kitas_00f18df26800aa82c1a98403055369",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kitas",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.847597062587738,
+                    0.11172540485858917,
+                    0.0406775027513504
+                ]
+            }
         }
     ]
 }
