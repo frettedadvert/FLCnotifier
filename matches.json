@@ -968,6 +968,23 @@
                     0.0406775027513504
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung Kardinal-von-Galen Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-kardinal-von-galen-schule_1b51421f6801fbf87cbe4081887232",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung Kardinal-von-Galen Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9616338014602661,
+                    0.033724017441272736,
+                    0.004642196465283632
+                ]
+            }
         }
     ]
 }
