@@ -1002,6 +1002,57 @@
                     0.059326447546482086
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-bewirtschaftung-von-cafeterien-an-der-universitaet-der-kuenste-berlin_0e9def866809e5032366a431321760",
+            "result": {
+                "sequence": "Vergebener Auftrag: Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7502642273902893,
+                    0.23480547964572906,
+                    0.014930208213627338
+                ]
+            }
+        },
+        {
+            "part": "Speisenversorgung - Gymnasium",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/speisenversorgung---gymnasium_1c7e8fda6809dd0991cb3203463170",
+            "result": {
+                "sequence": "Speisenversorgung - Gymnasium",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8817712664604187,
+                    0.06157536059617996,
+                    0.056653354316949844
+                ]
+            }
+        },
+        {
+            "part": "K\u00fcchenservice - Kita",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kuechenservice---kita_1dd91b916809d8f1ad1dc756150943",
+            "result": {
+                "sequence": "K\u00fcchenservice - Kita",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5304473638534546,
+                    0.4222680926322937,
+                    0.04728453978896141
+                ]
+            }
         }
     ]
 }
