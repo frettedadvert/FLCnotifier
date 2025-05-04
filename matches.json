@@ -1053,6 +1053,23 @@
                     0.04728453978896141
                 ]
             }
+        },
+        {
+            "part": "Catering und Lunchpakete",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/catering-und-lunchpakete_1b69e1ad68147108c6d30385869538",
+            "result": {
+                "sequence": "Catering und Lunchpakete",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8976197838783264,
+                    0.08074665069580078,
+                    0.021633530035614967
+                ]
+            }
         }
     ]
 }
