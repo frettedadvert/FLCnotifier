@@ -1070,6 +1070,176 @@
                     0.021633530035614967
                 ]
             }
+        },
+        {
+            "part": "Essenslieferung - Kita und Grundschule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/essenslieferung---kita-und-grundschule_0c3eee9867ff5903973d9953515162",
+            "result": {
+                "sequence": "Essenslieferung - Kita und Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8345658183097839,
+                    0.12357349693775177,
+                    0.041860681027173996
+                ]
+            }
+        },
+        {
+            "part": "Cateringdienstleistungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/cateringdienstleistungen_0cdf5b9c681c5a0ad8ff5712109081",
+            "result": {
+                "sequence": "Cateringdienstleistungen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9186265468597412,
+                    0.06503209471702576,
+                    0.01634136587381363
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-bewirtschaftung-von-cafeterien-an-der-universitaet-der-kuenste-berlin_0e9def866809e5032366a431321760",
+            "result": {
+                "sequence": "Vergebener Auftrag: Bewirtschaftung von Cafeterien an der Universit\u00e4t der K\u00fcnste Berlin",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7502634525299072,
+                    0.23480616509914398,
+                    0.0149303637444973
+                ]
+            }
+        },
+        {
+            "part": "Mittagsverpflegung - Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kitas_00f18df26800aa82c1a98403055369",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kitas",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8475979566574097,
+                    0.11172453314065933,
+                    0.04067746549844742
+                ]
+            }
+        },
+        {
+            "part": "Berichtigung: Catering und Lunchpakete",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/berichtigung-catering-und-lunchpakete_1b69e1ad68147108c6d30385869538",
+            "result": {
+                "sequence": "Berichtigung: Catering und Lunchpakete",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7981125116348267,
+                    0.18436871469020844,
+                    0.017518717795610428
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung Kardinal-von-Galen Schule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-kardinal-von-galen-schule_1b51421f6801fbf87cbe4081887232",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung Kardinal-von-Galen Schule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9616338014602661,
+                    0.03372399881482124,
+                    0.004642188083380461
+                ]
+            }
+        },
+        {
+            "part": "Speisenversorgung - Gymnasium",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/speisenversorgung---gymnasium_1c7e8fda6809dd0991cb3203463170",
+            "result": {
+                "sequence": "Speisenversorgung - Gymnasium",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8817700743675232,
+                    0.06157572194933891,
+                    0.0566541962325573
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-catering-%252F-verpflegungsdienst-fuer-mensa-i-und-ii-(fuer-5-jahre)_1dd8247e67ee358a86aa4996667623",
+            "result": {
+                "sequence": "Vergebener Auftrag: Catering / Verpflegungsdienst f\u00fcr Mensa I und II (f\u00fcr 5 Jahre)",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8290488123893738,
+                    0.16087232530117035,
+                    0.0100789126008749
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Essensversorgung Holzhausenschule und Adornogymnaisum",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-essensversorgung-holzhausenschule-und-adornogymnaisum_1fa865d46818657978380776348179",
+            "result": {
+                "sequence": "Vergebener Auftrag: Essensversorgung Holzhausenschule und Adornogymnaisum",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9091373682022095,
+                    0.053063228726387024,
+                    0.03779939189553261
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Catering in st\u00e4dtischen Unterbringungseinrichtungen der Landeshauptstadt M\u00fcnchen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-catering-in-staedtischen-unterbringungseinrichtungen-der-landeshauptstadt-muenchen-_2afdf65467ff59070a53b961161548",
+            "result": {
+                "sequence": "Vergebener Auftrag: Catering in st\u00e4dtischen Unterbringungseinrichtungen der Landeshauptstadt M\u00fcnchen",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7694124579429626,
+                    0.2265656590461731,
+                    0.004021885339170694
+                ]
+            }
         }
     ]
 }
