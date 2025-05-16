@@ -1240,6 +1240,23 @@
                     0.004021885339170694
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Ganztagsschulen und Grundschule",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---ganztagsschulen-und-grundschule_2b57d42868107c7cc4ccf441304963",
+            "result": {
+                "sequence": "Mittagsverpflegung - Ganztagsschulen und Grundschule",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8668946623802185,
+                    0.11417406052350998,
+                    0.01893128640949726
+                ]
+            }
         }
     ]
 }
