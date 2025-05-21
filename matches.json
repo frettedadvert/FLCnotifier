@@ -1274,6 +1274,23 @@
                     0.10536833107471466
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Kitas",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kitas_2c697a28682442ffdd8ea445320692",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kitas",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8475979566574097,
+                    0.11172453314065933,
+                    0.04067746549844742
+                ]
+            }
         }
     ]
 }
