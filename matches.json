@@ -1291,6 +1291,23 @@
                     0.04067746549844742
                 ]
             }
+        },
+        {
+            "part": "Mittagsversorgung - Kindergarten",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsversorgung---kindergarten_2c7523ab68242fff2dd58007728992",
+            "result": {
+                "sequence": "Mittagsversorgung - Kindergarten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8273791074752808,
+                    0.13366346061229706,
+                    0.038957420736551285
+                ]
+            }
         }
     ]
 }
