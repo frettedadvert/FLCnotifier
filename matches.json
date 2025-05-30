@@ -1342,6 +1342,57 @@
                     0.11630220711231232
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Stadt Maintal - Vergabeverfahren f\u00fcr die losweise Beschaffung von Leistungen der Mittagsverpflegung f\u00fcr Kindertageseinrichtungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-stadt-maintal---vergabeverfahren-fuer-die-losweise-beschaffung-von-leistungen-der-mittagsverpflegung-fuer-kindertageseinrichtungen_0d545ca768395b080888c856432743",
+            "result": {
+                "sequence": "Vergebener Auftrag: Stadt Maintal - Vergabeverfahren f\u00fcr die losweise Beschaffung von Leistungen der Mittagsverpflegung f\u00fcr Kindertageseinrichtungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7107199430465698,
+                    0.2624308466911316,
+                    0.026849184185266495
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-ausschreibung-speiseversorgung-fuer-die-bezirksklinik-rehau_1c7cd1b668395b0859741103325726",
+            "result": {
+                "sequence": "Vergebener Auftrag: Ausschreibung Speiseversorgung f\u00fcr die Bezirksklinik Rehau",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9694318175315857,
+                    0.02017245441675186,
+                    0.010395695455372334
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Schillerschule, Bensheim-Auerbach - Tr\u00e4gerschaft Ganztagsf\u00f6rderung - Pakt f\u00fcr den Ganztag, GTA Profil 2 (K2)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-schillerschule-bensheim-auerbach---traegerschaft-ganztagsfoerderung---pakt-fuer-den-ganztag-gta-profil-2-(k2)_1e37afe968395aff885ad966858669",
+            "result": {
+                "sequence": "Vergebener Auftrag: Schillerschule, Bensheim-Auerbach - Tr\u00e4gerschaft Ganztagsf\u00f6rderung - Pakt f\u00fcr den Ganztag, GTA Profil 2 (K2)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9764078855514526,
+                    0.014796547591686249,
+                    0.008795605041086674
+                ]
+            }
         }
     ]
 }
