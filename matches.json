@@ -1393,6 +1393,23 @@
                     0.008795605041086674
                 ]
             }
+        },
+        {
+            "part": "Schulverpflegung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/schulverpflegung_1a9981856842958129806466954037",
+            "result": {
+                "sequence": "Schulverpflegung",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8490332365036011,
+                    0.0860510915517807,
+                    0.06491563469171524
+                ]
+            }
         }
     ]
 }
