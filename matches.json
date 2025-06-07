@@ -1410,6 +1410,23 @@
                     0.06491563469171524
                 ]
             }
+        },
+        {
+            "part": "Mittagessensversorgung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagessensversorgung_2a14202f683ff28817944931513756",
+            "result": {
+                "sequence": "Mittagessensversorgung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6588121056556702,
+                    0.20227526128292084,
+                    0.1389126181602478
+                ]
+            }
         }
     ]
 }
