@@ -1427,6 +1427,23 @@
                     0.1389126181602478
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-am-foerderschulzentrum-bad-kreuznach%253B%250Alieferung-von-essenskomponenten_1a706d88684fc4788e792292693988",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung am F\u00f6rderschulzentrum Bad Kreuznach; Lieferung von Essenskomponenten",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9484091401100159,
+                    0.03786691650748253,
+                    0.013723908923566341
+                ]
+            }
         }
     ]
 }
