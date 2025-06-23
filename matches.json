@@ -1444,6 +1444,23 @@
                     0.013723908923566341
                 ]
             }
+        },
+        {
+            "part": "Verpachtung der Kantine - Beh\u00f6rde",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/verpachtung-der-kantine---behoerde_0a34ceca6858ed3703ac0128070577",
+            "result": {
+                "sequence": "Verpachtung der Kantine - Beh\u00f6rde",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7128328680992126,
+                    0.2664138078689575,
+                    0.020753389224410057
+                ]
+            }
         }
     ]
 }
