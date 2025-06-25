@@ -1461,6 +1461,40 @@
                     0.020753389224410057
                 ]
             }
+        },
+        {
+            "part": "Kantinen- und Verpflegungsdienste",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/kantinen--und-verpflegungsdienste_2d449875684fc4838ca60683348712",
+            "result": {
+                "sequence": "Kantinen- und Verpflegungsdienste",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.8121533989906311,
+                    0.09978096932172775,
+                    0.08806561678647995
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung Kitas ab 2025 in der Verbandsgemeinde Bad Ems-Nassau",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-kitas-ab-2025-in-der-verbandsgemeinde-bad-ems-nassau_2de296a4680b367eef88e918146247",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung Kitas ab 2025 in der Verbandsgemeinde Bad Ems-Nassau",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6326848864555359,
+                    0.3157840371131897,
+                    0.05153113231062889
+                ]
+            }
         }
     ]
 }
