@@ -1495,6 +1495,23 @@
                     0.05153113231062889
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-landeshauptstadt-schwerin---verpflegung%252Fgetraenke-fuer-bewohner-der-gemeinschaftsunterkunft-werkstrasse-209_2efe3757685cf3802999d376564466",
+            "result": {
+                "sequence": "Vergebener Auftrag: Landeshauptstadt Schwerin - Verpflegung/Getr\u00e4nke f\u00fcr Bewohner der Gemeinschaftsunterkunft Werkstra\u00dfe 209",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9793251156806946,
+                    0.015221977606415749,
+                    0.005452863406389952
+                ]
+            }
         }
     ]
 }
