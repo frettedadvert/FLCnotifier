@@ -1512,6 +1512,23 @@
                     0.005452863406389952
                 ]
             }
+        },
+        {
+            "part": "Dienstleistungskonzession Versorgung mit Speisen und Getr\u00e4nken",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/dienstleistungskonzession-versorgung-mit-speisen-und-getraenken_3a2f1961685e9caa0c32a523882328",
+            "result": {
+                "sequence": "Dienstleistungskonzession Versorgung mit Speisen und Getr\u00e4nken",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.7651349306106567,
+                    0.16921141743659973,
+                    0.06565366685390472
+                ]
+            }
         }
     ]
 }
