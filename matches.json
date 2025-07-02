@@ -1529,6 +1529,23 @@
                     0.06565366685390472
                 ]
             }
+        },
+        {
+            "part": "Dienstleistungskonzession Marktpavillon",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/dienstleistungskonzession-marktpavillon_2d0683596864d1fad7fcb527642263",
+            "result": {
+                "sequence": "Dienstleistungskonzession Marktpavillon",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.589081883430481,
+                    0.313455730676651,
+                    0.09746237099170685
+                ]
+            }
         }
     ]
 }
