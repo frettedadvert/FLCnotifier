@@ -1546,6 +1546,23 @@
                     0.09746237099170685
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-schuelerverpflegung---lose-gs-frauenstrasse-gs-rosenstrasse-ms-hans-sachs-strasse_3a51e969685ba213b24c6478255853",
+            "result": {
+                "sequence": "Vergebener Auftrag: Sch\u00fclerverpflegung - Lose GS Frauenstra\u00dfe, GS Rosenstra\u00dfe, MS Hans-Sachs-Stra\u00dfe",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9265293478965759,
+                    0.06045698747038841,
+                    0.013013632968068123
+                ]
+            }
         }
     ]
 }
