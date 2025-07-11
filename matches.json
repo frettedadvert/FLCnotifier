@@ -1563,6 +1563,23 @@
                     0.013013632968068123
                 ]
             }
+        },
+        {
+            "part": "Konzession: Einkauf der Gefangenen - Justizvollzugsanstalt",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/konzession-einkauf-der-gefangenen---justizvollzugsanstalt_1ccb0efe686f9c2b4c8be756374395",
+            "result": {
+                "sequence": "Konzession: Einkauf der Gefangenen - Justizvollzugsanstalt",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.6041500568389893,
+                    0.21513211727142334,
+                    0.1807178556919098
+                ]
+            }
         }
     ]
 }
