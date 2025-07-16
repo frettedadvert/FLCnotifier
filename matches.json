@@ -1580,6 +1580,40 @@
                     0.1807178556919098
                 ]
             }
+        },
+        {
+            "part": "Catering f\u00fcr Weihnachtsfeier",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/catering-fuer-weihnachtsfeier_3a7959076874f4b69366d399853715",
+            "result": {
+                "sequence": "Catering f\u00fcr Weihnachtsfeier",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9580185413360596,
+                    0.035827916115522385,
+                    0.00615353137254715
+                ]
+            }
+        },
+        {
+            "part": "Vergebener Auftrag: Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-essensverpflegung-in-der-erstaufnahmeeinrichtung-fuer-fluechtlinge-am-schroecker-tor-2-76344-eggenstein-leopoldshafen_3c4d501f686239779dff6819441523",
+            "result": {
+                "sequence": "Vergebener Auftrag: Essensverpflegung in der Erstaufnahmeeinrichtung f\u00fcr Fl\u00fcchtlinge Am Schr\u00f6cker Tor 2, 76344 Eggenstein-Leopoldshafen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.9732757806777954,
+                    0.019970644265413284,
+                    0.006753516383469105
+                ]
+            }
         }
     ]
 }
