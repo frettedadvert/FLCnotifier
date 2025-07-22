@@ -1631,6 +1631,40 @@
                     0.009173570200800896
                 ]
             }
+        },
+        {
+            "part": "Beherbergungs- u. Verpflegungsleistungen",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/beherbergungs--u.-verpflegungsleistungen_1eebb614687f26a5888cc384983519",
+            "result": {
+                "sequence": "Beherbergungs- u. Verpflegungsleistungen",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7875635027885437,
+                    0.12181359529495239,
+                    0.0906229093670845
+                ]
+            }
+        },
+        {
+            "part": "Mittagsverpflegung u. Tagescatering - Kulturzentrum",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung-u.-tagescatering---kulturzentrum_2c9fcee4687e371f93f40638342657",
+            "result": {
+                "sequence": "Mittagsverpflegung u. Tagescatering - Kulturzentrum",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.5994745492935181,
+                    0.3690616488456726,
+                    0.031463898718357086
+                ]
+            }
         }
     ]
 }
