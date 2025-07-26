@@ -1682,6 +1682,23 @@
                     0.06491563469171524
                 ]
             }
+        },
+        {
+            "part": "Tagungsr\u00e4ume mit Technik, Verpflegung und optionaler Hotelzimmerbuchung",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/tagungsraeume-mit-technik-verpflegung-und-optionaler-hotelzimmerbuchung_1b0b384468832f021c6ef353840702",
+            "result": {
+                "sequence": "Tagungsr\u00e4ume mit Technik, Verpflegung und optionaler Hotelzimmerbuchung",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.6731411218643188,
+                    0.26033732295036316,
+                    0.06652151048183441
+                ]
+            }
         }
     ]
 }
