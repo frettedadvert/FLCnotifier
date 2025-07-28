@@ -1699,6 +1699,23 @@
                     0.06652151048183441
                 ]
             }
+        },
+        {
+            "part": "Mittagsverpflegung - Kindertagesst\u00e4tten",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/mittagsverpflegung---kindertagesstaetten_0f9687f26887238ace687883936100",
+            "result": {
+                "sequence": "Mittagsverpflegung - Kindertagesst\u00e4tten",
+                "labels": [
+                    "verpflegung",
+                    "catering",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.8209518790245056,
+                    0.11853832751512527,
+                    0.060509879142045975
+                ]
+            }
         }
     ]
 }
