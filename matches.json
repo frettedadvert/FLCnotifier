@@ -1716,6 +1716,23 @@
                     0.060509879142045975
                 ]
             }
+        },
+        {
+            "part": "Vergebener Auftrag: Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/vergebener-auftrag-mittagsverpflegung-in-offenen-ganztagsschulen-(ogs)_1bd45811688874f6a7f3a865162678",
+            "result": {
+                "sequence": "Vergebener Auftrag: Mittagsverpflegung in Offenen Ganztagsschulen (OGS)",
+                "labels": [
+                    "verpflegung",
+                    "lebensmittel",
+                    "catering"
+                ],
+                "scores": [
+                    0.7773988246917725,
+                    0.18199637532234192,
+                    0.0406048409640789
+                ]
+            }
         }
     ]
 }
