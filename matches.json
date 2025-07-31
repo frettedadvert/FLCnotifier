@@ -1733,6 +1733,23 @@
                     0.0406048409640789
                 ]
             }
+        },
+        {
+            "part": "Dienstleistungskonzession Cafeteria",
+            "link": "https://www.deutsches-ausschreibungsblatt.de/ausschreibung/#/dienstleistungskonzession-cafeteria_2c34fd92688a227624ad3709148064",
+            "result": {
+                "sequence": "Dienstleistungskonzession Cafeteria",
+                "labels": [
+                    "catering",
+                    "verpflegung",
+                    "lebensmittel"
+                ],
+                "scores": [
+                    0.9453129172325134,
+                    0.046276699751615524,
+                    0.008410392329096794
+                ]
+            }
         }
     ]
 }
